@@ -2,6 +2,7 @@
 
 #Instructions
 1. Change the path of newly created folder where you want to create.
+
 		fPath="{Your Path to create folder}"+fName;
 
 2. Change the path of stored ip.txt, op.txt and calc.py to appropriately
